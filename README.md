@@ -38,7 +38,7 @@ Transaktionstyp,Kryptowährung,Betrag,Seite,Ausgelöster Preis,Gefüllt,Ausgefü
 
 ## Ausgabeformat
 
-Die generierte csv Ausgabedatei hat inen Header in der ersten Zeile und die Spaltenüberschriften in der zweiten Zeile. Hier für das Steuerjahr 2024:
+Die generierte csv Ausgabedatei hat einen Header in der ersten Zeile und die Spaltenüberschriften in der zweiten Zeile. Hier für das Steuerjahr 2024:
 
 ```csv
 Identifier:Capital_Gains,Method:FIFO,Tax_Year:2024,Base_Currency:EUR
