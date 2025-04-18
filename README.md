@@ -45,6 +45,9 @@ Identifier:Capital_Gains,Method:FIFO,Tax_Year:2024,Base_Currency:EUR
 Amount,Currency,Date Sold,Date Acquired,Short/Long,Buy/Input at,Sell/Output at,Proceeds,Cost Basis,Gain/Loss
 ```
 
+Die *-kompakt Skripte erlauben es, jene Zeilen im Bericht zusammenzufassen, bei denen Die Kryptowährung UND Kaufdatum UND Verkaufsdatum identisch sind.
+
+
 ---
 
 (DE) EXPERIMENTELL - VERWENDUNG AUF EIGENE GEFAHR
