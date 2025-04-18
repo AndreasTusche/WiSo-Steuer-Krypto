@@ -48,12 +48,15 @@ Amount,Currency,Date Sold,Date Acquired,Short/Long,Buy/Input at,Sell/Output at,P
 Die *-kompakt Skripte erlauben es, jene Zeilen im Bericht zusammenzufassen, bei denen Die Kryptowährung UND Kaufdatum UND Verkaufsdatum identisch sind.
 
 
+## Steuerrechtliche Behandlung
+
+Die hier vorgestellten Skripte sind experimentell und sollen nicht ungeprüft verwendet werden. Diese Skripte dienen lediglich als Anregung für eigene Programmierungen. Sie behandeln nur simple Trades und sind nicht geeignet, andere steuerrelevante Transaktionen zu berücksichtigen. Diese Skripte können falsche Ergebnisse liefern; falsche Angaben bei der Steuererklärung können als Steuerhinterziehung geahndet werden.
+
+Informationen, was alles zu beachten wäre, findet man z.B. hier: [Einzelfragen zur ertragsteuerrechtlichen Behandlung bestimmter Kryptowerte](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2025-03-06-einzelfragen-kryptowerte-bmf-schreiben.pdf?__blob=publicationFile&v=2) vom 6. März 2025.
+
+
 ---
 
 (DE) EXPERIMENTELL - VERWENDUNG AUF EIGENE GEFAHR
 
 (EN) EXPERIMENTAL - USE AT YOUR OWN RISK
-
-
-
-
